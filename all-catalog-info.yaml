@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Schneider components 
 spec: 
   targets: 
-    - 
+    - https://github.com/nitinraj18/my-my-plugin-component/blob/main/catalog-info.yaml
