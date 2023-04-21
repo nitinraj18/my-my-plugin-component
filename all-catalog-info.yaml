@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1 
 kind: Location 
 metadata: 
-  name: schneider-components 
-  description: A collection of all Schneider components 
+  name: test-components 
+  description: A collection of all test components 
 spec: 
   targets: 
     - https://github.com/nitinraj18/my-my-plugin-component/blob/main/catalog-info.yaml
+    - https://github.com/nitinraj18/my-my-plugin-component/blob/main/catalog1-info.yaml
