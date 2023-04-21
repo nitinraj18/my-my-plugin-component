@@ -18,5 +18,5 @@ metadata:
 spec:
   type: playground
   lifecycle: unt
-  owner: test1-repo
+  owner: quality-engineering
   system: public-websites1
